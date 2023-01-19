@@ -22,7 +22,7 @@ echo -e "$Lyellow                ⚡ PREMIUM SPEED SCRIPT ⚡"$NC
 echo -e "$green.........................................................."$NC
 echo -e "$Lyellow                  Autoscript BLACK MAMBA"$NC
 echo -e "$Lyellow                    CONTACT TELEGRAM"$NC
-echo -e "$Lyellow                       @kontol_mania"$NC
+echo -e "$Lyellow                       @kontol_comel"$NC
 echo -e "$green.........................................................."$NC
 echo ''
 echo -e "$Lyellow                       Tunggu 360 hari bos ku!"$NC
